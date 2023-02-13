@@ -1,0 +1,30 @@
+
+.p1-image{
+    width:70%;
+}
+.testimonial-image{
+    width: 100%; 
+    
+}
+.icon{
+    color:rgb(255, 255, 255);
+    margin: 1rem;
+    margin-left: 3rem;
+}
+#feature, #part-5{
+    background-color: rgb(109, 181, 194);
+}
+.btn:hover{
+    color: rgb(109, 181, 194);
+
+}
+.icon:hover{
+    color: rgb(34, 34, 34);
+
+}
+#footer{
+    background-color: rgb(121, 119, 119);
+}
+.footer-img{
+    width:15%;
+}
